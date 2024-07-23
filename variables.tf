@@ -25,7 +25,7 @@ variable "label_order" {
 variable "managedby" {
   type        = string
   default     = ""
-  description = "ManagedBy, eg 'opsstation'."
+  description = "ManagedBy, eg 'sohanyadav'."
 }
 variable "resource_group_name" {
   type        = any
